@@ -12,8 +12,7 @@ A simple web-based game where the player tries to guess a randomly generated num
 ✅ Simple and clean UI with responsive design  
 
 ## 📷 Screenshot  
-![Guess the Number Game](![Screenshot 2025-03-07 144756](https://github.com/user-attachments/assets/cde8892f-4333-461f-8044-2257a0c0a78e)
-)  
+(https://github.com/user-attachments/assets/cde8892f-4333-461f-8044-2257a0c0a78e)
 
 ## 🎮 How to Play  
 1. Open the game in a web browser.  
