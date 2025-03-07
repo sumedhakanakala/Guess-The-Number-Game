@@ -7,7 +7,7 @@ A simple web-based game where the player tries to guess a randomly generated num
 ## 🚀 Features  
 ✅ Random number generation between **1 and 100**  
 ✅ User-friendly input field and button-based interaction  
-✅ Hint system: **Too High / Too Low** feedback  
+✅ Hint system: **High / Low** feedback  
 ✅ Attempts counter to track guesses  
 ✅ Simple and clean UI with responsive design  
 
